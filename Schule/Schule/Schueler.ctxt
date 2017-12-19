@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Schueler
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Schueler.\n\ \n\ @author\ (Marinus\ Eder)\ \n\ @version\ (12.12.2017)\n
+comment1.params=
+comment1.target=Schueler()
+comment2.params=name\ alter
+comment2.target=Schueler(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ druckeInfo()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=alter
+comment5.target=void\ setAlter(int)
+comment6.params=mitschueler
+comment6.target=void\ setMitschueler(Schueler)
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=int\ getAlter()
+comment9.params=
+comment9.target=Schueler\ getMitschueler()
+numComments=10

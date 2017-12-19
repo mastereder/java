@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Schulklasse
+comment1.params=
+comment1.target=Schulklasse()
+comment10.params=
+comment10.target=Schueler\ getSchueler0()
+comment11.params=
+comment11.target=Schueler\ getSchueler1()
+comment12.params=
+comment12.target=Schueler\ getSchueler2()
+comment2.params=bezeichnung
+comment2.target=Schulklasse(java.lang.String)
+comment3.params=bezeichnung\ schueler0\ schueler1\ schueler2
+comment3.target=Schulklasse(java.lang.String,\ Schueler,\ Schueler,\ Schueler)
+comment4.params=
+comment4.target=void\ druckeInfo()
+comment5.params=bezeichnung
+comment5.target=void\ setBezeichnung(java.lang.String)
+comment6.params=schueler
+comment6.target=void\ setSchueler0(Schueler)
+comment7.params=schueler
+comment7.target=void\ setSchueler1(Schueler)
+comment8.params=schueler
+comment8.target=void\ setSchueler2(Schueler)
+comment9.params=
+comment9.target=java.lang.String\ getBezeichnung()
+numComments=13
