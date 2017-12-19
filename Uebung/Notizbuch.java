@@ -45,6 +45,13 @@ public class Notizbuch
     private boolean checkIndex(int index){
         return index >= 0 && index < anzahlNotizen();
     }
+    
+    
+    public void alleNotizenAusgeben(){
+        for (String notiz : notizen){
+            System.out.println(notiz);
+        }
+    }
 
 }
 

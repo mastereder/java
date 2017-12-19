@@ -1,12 +1,17 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Notizbuch()
-comment1.params=notiz
-comment1.target=void\ hinzufuegen(java.lang.String)
-comment2.params=
-comment2.target=int\ anzahlNotizen()
-comment3.params=index
-comment3.target=void\ zeigeNotiz(int)
+comment0.target=Notizbuch
+comment1.params=
+comment1.target=Notizbuch()
+comment2.params=notiz
+comment2.target=void\ hinzufuegen(java.lang.String)
+comment3.params=
+comment3.target=int\ anzahlNotizen()
 comment4.params=index
-comment4.target=java.lang.String\ loescheNotiz(int)
-numComments=5
+comment4.target=void\ zeigeNotiz(int)
+comment5.params=index
+comment5.target=java.lang.String\ loescheNotiz(int)
+comment6.params=index
+comment6.target=boolean\ checkIndex(int)
+comment7.params=
+comment7.target=void\ alleNotizenAusgeben()
+numComments=8

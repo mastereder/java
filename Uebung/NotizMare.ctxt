@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=NotizMare
+comment1.params=
+comment1.target=NotizMare()
+comment2.params=note
+comment2.target=void\ addNote(java.lang.String)
+comment3.params=note
+comment3.target=void\ deleteNote(java.lang.String)
+comment4.params=
+comment4.target=void\ deleteNotes()
+comment5.params=
+comment5.target=void\ getNotes()
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=
+comment7.target=void\ setNote()
+numComments=8
